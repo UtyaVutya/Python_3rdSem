@@ -1,1 +1,1 @@
-"# Python_3rdSem practice" 
+# Python_3rdSem practice
